@@ -1,0 +1,1625 @@
+fileFormatVersion: 2
+guid: 3da0cb4c754e743ba9a5fc9498622fe4
+timeCreated: 1455798326
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: aorta4096_0
+    21300002: aorta4096_1
+    21300004: aorta4096_2
+    21300006: aorta4096_3
+    21300008: aorta4096_4
+    21300010: aorta4096_5
+    21300012: aorta4096_6
+    21300014: aorta4096_7
+    21300016: aorta4096_8
+    21300018: aorta4096_9
+    21300020: aorta4096_10
+    21300022: aorta4096_11
+    21300024: aorta4096_12
+    21300026: aorta4096_13
+    21300028: aorta4096_14
+    21300030: aorta4096_15
+    21300032: aorta4096_16
+    21300034: aorta4096_17
+    21300036: aorta4096_18
+    21300038: aorta4096_19
+    21300040: aorta4096_20
+    21300042: aorta4096_21
+    21300044: aorta4096_22
+    21300046: aorta4096_23
+    21300048: aorta4096_24
+    21300050: aorta4096_25
+    21300052: aorta4096_26
+    21300054: aorta4096_27
+    21300056: aorta4096_28
+    21300058: aorta4096_29
+    21300060: aorta4096_30
+    21300062: aorta4096_31
+    21300064: aorta4096_32
+    21300066: aorta4096_33
+    21300068: aorta4096_34
+    21300070: aorta4096_35
+    21300072: aorta4096_36
+    21300074: aorta4096_37
+    21300076: aorta4096_38
+    21300078: aorta4096_39
+    21300080: aorta4096_40
+    21300082: aorta4096_41
+    21300084: aorta4096_42
+    21300086: aorta4096_43
+    21300088: aorta4096_44
+    21300090: aorta4096_45
+    21300092: aorta4096_46
+    21300094: aorta4096_47
+    21300096: aorta4096_48
+    21300098: aorta4096_49
+    21300100: aorta4096_50
+    21300102: aorta4096_51
+    21300104: aorta4096_52
+    21300106: aorta4096_53
+    21300108: aorta4096_54
+    21300110: aorta4096_55
+    21300112: aorta4096_56
+    21300114: aorta4096_57
+    21300116: aorta4096_58
+    21300118: aorta4096_59
+    21300120: aorta4096_60
+    21300122: aorta4096_61
+    21300124: aorta4096_62
+    21300126: aorta4096_63
+    21300128: aorta4096_64
+    21300130: aorta4096_65
+    21300132: aorta4096_66
+    21300134: aorta4096_67
+    21300136: aorta4096_68
+    21300138: aorta4096_69
+    21300140: aorta4096_70
+    21300142: aorta4096_71
+    21300144: aorta4096_72
+    21300146: aorta4096_73
+    21300148: aorta4096_74
+    21300150: aorta4096_75
+    21300152: aorta4096_76
+    21300154: aorta4096_77
+    21300156: aorta4096_78
+    21300158: aorta4096_79
+    21300160: aorta4096_80
+    21300162: aorta4096_81
+    21300164: aorta4096_82
+    21300166: aorta4096_83
+    21300168: aorta4096_84
+    21300170: aorta4096_85
+    21300172: aorta4096_86
+    21300174: aorta4096_87
+    21300176: aorta4096_88
+    21300178: aorta4096_89
+    21300180: aorta4096_90
+    21300182: aorta4096_91
+    21300184: aorta4096_92
+    21300186: aorta4096_93
+    21300188: aorta4096_94
+    21300190: aorta4096_95
+    21300192: aorta4096_96
+    21300194: aorta4096_97
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 5
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: aorta4096_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3691
+        width: 420
+        height: 363
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -105, y: 91.5}
+        - {x: -105, y: -90.5}
+        - {x: 105, y: -90.5}
+        - {x: 105, y: 91.5}
+    - name: aorta4096_1
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 3679
+        width: 375
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -94, y: 93}
+        - {x: -94, y: -92}
+        - {x: 94, y: -92}
+        - {x: 94, y: 93}
+    - name: aorta4096_2
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 3679
+        width: 375
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -94, y: 93}
+        - {x: -94, y: -92}
+        - {x: 94, y: -92}
+        - {x: 94, y: 93}
+    - name: aorta4096_3
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 3691
+        width: 375
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -94, y: 93}
+        - {x: -94, y: -92}
+        - {x: 94, y: -92}
+        - {x: 94, y: 93}
+    - name: aorta4096_4
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 3691
+        width: 375
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -94, y: 93}
+        - {x: -94, y: -92}
+        - {x: 94, y: -92}
+        - {x: 94, y: 93}
+    - name: aorta4096_5
+      rect:
+        serializedVersion: 2
+        x: 2086
+        y: 3679
+        width: 375
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -94, y: 93}
+        - {x: -94, y: -92}
+        - {x: 94, y: -92}
+        - {x: 94, y: 93}
+    - name: aorta4096_6
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 3679
+        width: 375
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -94, y: 93}
+        - {x: -94, y: -92}
+        - {x: 94, y: -92}
+        - {x: 94, y: 93}
+    - name: aorta4096_7
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 3697
+        width: 375
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -94, y: 93}
+        - {x: -94, y: -92}
+        - {x: 94, y: -92}
+        - {x: 94, y: 93}
+    - name: aorta4096_8
+      rect:
+        serializedVersion: 2
+        x: 3299
+        y: 3691
+        width: 375
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.5, y: 93}
+        - {x: -93.5, y: -92}
+        - {x: 94.5, y: -92}
+        - {x: 94.5, y: 93}
+    - name: aorta4096_9
+      rect:
+        serializedVersion: 2
+        x: 3721
+        y: 3704
+        width: 375
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.5, y: 92.5}
+        - {x: -93.5, y: -92.5}
+        - {x: 94.5, y: -92.5}
+        - {x: 94.5, y: 92.5}
+    - name: aorta4096_10
+      rect:
+        serializedVersion: 2
+        x: 3721
+        y: 3287
+        width: 375
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.5, y: 93}
+        - {x: -93.5, y: -92}
+        - {x: 94.5, y: -92}
+        - {x: 94.5, y: 93}
+    - name: aorta4096_11
+      rect:
+        serializedVersion: 2
+        x: 3282
+        y: 3288
+        width: 410
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -102.5, y: 92}
+        - {x: -102.5, y: -92}
+        - {x: 102.5, y: -92}
+        - {x: 102.5, y: 92}
+    - name: aorta4096_12
+      rect:
+        serializedVersion: 2
+        x: 2895
+        y: 3305
+        width: 375
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.5, y: 93}
+        - {x: -93.5, y: -92}
+        - {x: 94.5, y: -92}
+        - {x: 94.5, y: 93}
+    - name: aorta4096_13
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 3277
+        width: 397
+        height: 374
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.5, y: 94.5}
+        - {x: -99.5, y: -93.5}
+        - {x: 99.5, y: -93.5}
+        - {x: 99.5, y: 94.5}
+    - name: aorta4096_14
+      rect:
+        serializedVersion: 2
+        x: 2104
+        y: 3300
+        width: 375
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -94, y: 92.5}
+        - {x: -94, y: -92.5}
+        - {x: 94, y: -92.5}
+        - {x: 94, y: 92.5}
+    - name: aorta4096_15
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 3288
+        width: 375
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.5, y: 92.5}
+        - {x: -93.5, y: -92.5}
+        - {x: 94.5, y: -92.5}
+        - {x: 94.5, y: 92.5}
+    - name: aorta4096_16
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 3294
+        width: 375
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.5, y: 92.5}
+        - {x: -93.5, y: -92.5}
+        - {x: 94.5, y: -92.5}
+        - {x: 94.5, y: 92.5}
+    - name: aorta4096_17
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 3294
+        width: 375
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.5, y: 92.5}
+        - {x: -93.5, y: -92.5}
+        - {x: 94.5, y: -92.5}
+        - {x: 94.5, y: 92.5}
+    - name: aorta4096_18
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 3300
+        width: 375
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.5, y: 92.5}
+        - {x: -93.5, y: -92.5}
+        - {x: 94.5, y: -92.5}
+        - {x: 94.5, y: 92.5}
+    - name: aorta4096_19
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 3300
+        width: 375
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.5, y: 92.5}
+        - {x: -93.5, y: -92.5}
+        - {x: 94.5, y: -92.5}
+        - {x: 94.5, y: 92.5}
+    - name: aorta4096_20
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 2884
+        width: 375
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.5, y: 92.5}
+        - {x: -93.5, y: -92.5}
+        - {x: 94.5, y: -92.5}
+        - {x: 94.5, y: 92.5}
+    - name: aorta4096_21
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 2878
+        width: 375
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.5, y: 92.5}
+        - {x: -93.5, y: -92.5}
+        - {x: 94.5, y: -92.5}
+        - {x: 94.5, y: 92.5}
+    - name: aorta4096_22
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 2878
+        width: 375
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.5, y: 92.5}
+        - {x: -93.5, y: -92.5}
+        - {x: 94.5, y: -92.5}
+        - {x: 94.5, y: 92.5}
+    - name: aorta4096_23
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 2884
+        width: 375
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.5, y: 92.5}
+        - {x: -93.5, y: -92.5}
+        - {x: 94.5, y: -92.5}
+        - {x: 94.5, y: 92.5}
+    - name: aorta4096_24
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 2878
+        width: 375
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.5, y: 92.5}
+        - {x: -93.5, y: -92.5}
+        - {x: 94.5, y: -92.5}
+        - {x: 94.5, y: 92.5}
+    - name: aorta4096_25
+      rect:
+        serializedVersion: 2
+        x: 2075
+        y: 2878
+        width: 375
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.5, y: 92.5}
+        - {x: -93.5, y: -92.5}
+        - {x: 94.5, y: -92.5}
+        - {x: 94.5, y: 92.5}
+    - name: aorta4096_26
+      rect:
+        serializedVersion: 2
+        x: 2479
+        y: 2872
+        width: 375
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.5, y: 92.5}
+        - {x: -93.5, y: -92.5}
+        - {x: 94.5, y: -92.5}
+        - {x: 94.5, y: 92.5}
+    - name: aorta4096_27
+      rect:
+        serializedVersion: 2
+        x: 2895
+        y: 2884
+        width: 375
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.5, y: 92.5}
+        - {x: -93.5, y: -92.5}
+        - {x: 94.5, y: -92.5}
+        - {x: 94.5, y: 92.5}
+    - name: aorta4096_28
+      rect:
+        serializedVersion: 2
+        x: 3293
+        y: 2890
+        width: 375
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.5, y: 92.5}
+        - {x: -93.5, y: -92.5}
+        - {x: 94.5, y: -92.5}
+        - {x: 94.5, y: 92.5}
+    - name: aorta4096_29
+      rect:
+        serializedVersion: 2
+        x: 3709
+        y: 2890
+        width: 375
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.5, y: 92.5}
+        - {x: -93.5, y: -92.5}
+        - {x: 94.5, y: -92.5}
+        - {x: 94.5, y: 92.5}
+    - name: aorta4096_30
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 2463
+        width: 375
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.5, y: 93}
+        - {x: -93.5, y: -92}
+        - {x: 94.5, y: -92}
+        - {x: 94.5, y: 93}
+    - name: aorta4096_31
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 2475
+        width: 375
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.5, y: 93}
+        - {x: -93.5, y: -92}
+        - {x: 94.5, y: -92}
+        - {x: 94.5, y: 93}
+    - name: aorta4096_32
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 2475
+        width: 375
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.5, y: 93}
+        - {x: -93.5, y: -92}
+        - {x: 94.5, y: -92}
+        - {x: 94.5, y: 93}
+    - name: aorta4096_33
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 2469
+        width: 375
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.5, y: 93}
+        - {x: -93.5, y: -92}
+        - {x: 94.5, y: -92}
+        - {x: 94.5, y: 93}
+    - name: aorta4096_34
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 2469
+        width: 375
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.5, y: 93}
+        - {x: -93.5, y: -92}
+        - {x: 94.5, y: -92}
+        - {x: 94.5, y: 93}
+    - name: aorta4096_35
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 2457
+        width: 375
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.5, y: 93}
+        - {x: -93.5, y: -92}
+        - {x: 94.5, y: -92}
+        - {x: 94.5, y: 93}
+    - name: aorta4096_36
+      rect:
+        serializedVersion: 2
+        x: 2479
+        y: 2486
+        width: 375
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.5, y: 92.5}
+        - {x: -93.5, y: -92.5}
+        - {x: 94.5, y: -92.5}
+        - {x: 94.5, y: 92.5}
+    - name: aorta4096_37
+      rect:
+        serializedVersion: 2
+        x: 2877
+        y: 2474
+        width: 375
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.5, y: 92.5}
+        - {x: -93.5, y: -92.5}
+        - {x: 94.5, y: -92.5}
+        - {x: 94.5, y: 92.5}
+    - name: aorta4096_38
+      rect:
+        serializedVersion: 2
+        x: 3299
+        y: 2480
+        width: 375
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.5, y: 92.5}
+        - {x: -93.5, y: -92.5}
+        - {x: 94.5, y: -92.5}
+        - {x: 94.5, y: 92.5}
+    - name: aorta4096_39
+      rect:
+        serializedVersion: 2
+        x: 3703
+        y: 2480
+        width: 375
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.5, y: 92.5}
+        - {x: -93.5, y: -92.5}
+        - {x: 94.5, y: -92.5}
+        - {x: 94.5, y: 92.5}
+    - name: aorta4096_40
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 2058
+        width: 375
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -94, y: 92.5}
+        - {x: -94, y: -92.5}
+        - {x: 94, y: -92.5}
+        - {x: 94, y: 92.5}
+    - name: aorta4096_41
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 2076
+        width: 375
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -94, y: 92.5}
+        - {x: -94, y: -92.5}
+        - {x: 94, y: -92.5}
+        - {x: 94, y: 92.5}
+    - name: aorta4096_42
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 2053
+        width: 375
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -94, y: 93}
+        - {x: -94, y: -92}
+        - {x: 94, y: -92}
+        - {x: 94, y: 93}
+    - name: aorta4096_43
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 2047
+        width: 375
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -94, y: 93}
+        - {x: -94, y: -92}
+        - {x: 94, y: -92}
+        - {x: 94, y: 93}
+    - name: aorta4096_44
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 2082
+        width: 375
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.5, y: 92.5}
+        - {x: -93.5, y: -92.5}
+        - {x: 94.5, y: -92.5}
+        - {x: 94.5, y: 92.5}
+    - name: aorta4096_45
+      rect:
+        serializedVersion: 2
+        x: 2092
+        y: 2053
+        width: 375
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -94, y: 93}
+        - {x: -94, y: -92}
+        - {x: 94, y: -92}
+        - {x: 94, y: 93}
+    - name: aorta4096_46
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 2076
+        width: 375
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -94, y: 92.5}
+        - {x: -94, y: -92.5}
+        - {x: 94, y: -92.5}
+        - {x: 94, y: 92.5}
+    - name: aorta4096_47
+      rect:
+        serializedVersion: 2
+        x: 2894
+        y: 2070
+        width: 375
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -94, y: 92.5}
+        - {x: -94, y: -92.5}
+        - {x: 94, y: -92.5}
+        - {x: 94, y: 92.5}
+    - name: aorta4096_48
+      rect:
+        serializedVersion: 2
+        x: 3281
+        y: 2058
+        width: 375
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.5, y: 92.5}
+        - {x: -93.5, y: -92.5}
+        - {x: 94.5, y: -92.5}
+        - {x: 94.5, y: 92.5}
+    - name: aorta4096_49
+      rect:
+        serializedVersion: 2
+        x: 3662
+        y: 2046
+        width: 434
+        height: 399
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -108.5, y: 100}
+        - {x: -108.5, y: -100}
+        - {x: 108.5, y: -100}
+        - {x: 108.5, y: 100}
+    - name: aorta4096_50
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1643
+        width: 375
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.5, y: 93}
+        - {x: -93.5, y: -92}
+        - {x: 94.5, y: -92}
+        - {x: 94.5, y: 93}
+    - name: aorta4096_51
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1643
+        width: 375
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.5, y: 93}
+        - {x: -93.5, y: -92}
+        - {x: 94.5, y: -92}
+        - {x: 94.5, y: 93}
+    - name: aorta4096_52
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1655
+        width: 375
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.5, y: 93}
+        - {x: -93.5, y: -92}
+        - {x: 94.5, y: -92}
+        - {x: 94.5, y: 93}
+    - name: aorta4096_53
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 1643
+        width: 375
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.5, y: 93}
+        - {x: -93.5, y: -92}
+        - {x: 94.5, y: -92}
+        - {x: 94.5, y: 93}
+    - name: aorta4096_54
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 1643
+        width: 375
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.5, y: 93}
+        - {x: -93.5, y: -92}
+        - {x: 94.5, y: -92}
+        - {x: 94.5, y: 93}
+    - name: aorta4096_55
+      rect:
+        serializedVersion: 2
+        x: 2075
+        y: 1649
+        width: 375
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.5, y: 93}
+        - {x: -93.5, y: -92}
+        - {x: 94.5, y: -92}
+        - {x: 94.5, y: 93}
+    - name: aorta4096_56
+      rect:
+        serializedVersion: 2
+        x: 2479
+        y: 1649
+        width: 375
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.5, y: 93}
+        - {x: -93.5, y: -92}
+        - {x: 94.5, y: -92}
+        - {x: 94.5, y: 93}
+    - name: aorta4096_57
+      rect:
+        serializedVersion: 2
+        x: 2883
+        y: 1643
+        width: 375
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.5, y: 93}
+        - {x: -93.5, y: -92}
+        - {x: 94.5, y: -92}
+        - {x: 94.5, y: 93}
+    - name: aorta4096_58
+      rect:
+        serializedVersion: 2
+        x: 3310
+        y: 1643
+        width: 375
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -94, y: 93}
+        - {x: -94, y: -92}
+        - {x: 94, y: -92}
+        - {x: 94, y: 93}
+    - name: aorta4096_59
+      rect:
+        serializedVersion: 2
+        x: 3691
+        y: 1639
+        width: 405
+        height: 361
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -101, y: 91}
+        - {x: -101, y: -90}
+        - {x: 102, y: -90}
+        - {x: 102, y: 91}
+    - name: aorta4096_60
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1227
+        width: 375
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -94, y: 93}
+        - {x: -94, y: -92}
+        - {x: 94, y: -92}
+        - {x: 94, y: 93}
+    - name: aorta4096_61
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1221
+        width: 375
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -94, y: 93}
+        - {x: -94, y: -92}
+        - {x: 94, y: -92}
+        - {x: 94, y: 93}
+    - name: aorta4096_62
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1221
+        width: 375
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -94, y: 93}
+        - {x: -94, y: -92}
+        - {x: 94, y: -92}
+        - {x: 94, y: 93}
+    - name: aorta4096_63
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 1221
+        width: 375
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -94, y: 93}
+        - {x: -94, y: -92}
+        - {x: 94, y: -92}
+        - {x: 94, y: 93}
+    - name: aorta4096_64
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 1215
+        width: 375
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -94, y: 93}
+        - {x: -94, y: -92}
+        - {x: 94, y: -92}
+        - {x: 94, y: 93}
+    - name: aorta4096_65
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 1215
+        width: 375
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -94, y: 93}
+        - {x: -94, y: -92}
+        - {x: 94, y: -92}
+        - {x: 94, y: 93}
+    - name: aorta4096_66
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 1221
+        width: 375
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -94, y: 93}
+        - {x: -94, y: -92}
+        - {x: 94, y: -92}
+        - {x: 94, y: 93}
+    - name: aorta4096_67
+      rect:
+        serializedVersion: 2
+        x: 2882
+        y: 1192
+        width: 375
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -94, y: 92.5}
+        - {x: -94, y: -92.5}
+        - {x: 94, y: -92.5}
+        - {x: 94, y: 92.5}
+    - name: aorta4096_68
+      rect:
+        serializedVersion: 2
+        x: 3298
+        y: 1221
+        width: 375
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -94, y: 93}
+        - {x: -94, y: -92}
+        - {x: 94, y: -92}
+        - {x: 94, y: 93}
+    - name: aorta4096_69
+      rect:
+        serializedVersion: 2
+        x: 3702
+        y: 1194
+        width: 394
+        height: 390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98.5, y: 97.5}
+        - {x: -98.5, y: -97.5}
+        - {x: 98.5, y: -97.5}
+        - {x: 98.5, y: 97.5}
+    - name: aorta4096_70
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 787
+        width: 375
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.5, y: 93}
+        - {x: -93.5, y: -92}
+        - {x: 94.5, y: -92}
+        - {x: 94.5, y: 93}
+    - name: aorta4096_71
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 797
+        width: 375
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.5, y: 90.5}
+        - {x: -93.5, y: -89.5}
+        - {x: 94.5, y: -89.5}
+        - {x: 94.5, y: 90.5}
+    - name: aorta4096_72
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 791
+        width: 375
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.5, y: 90.5}
+        - {x: -93.5, y: -89.5}
+        - {x: 94.5, y: -89.5}
+        - {x: 94.5, y: 90.5}
+    - name: aorta4096_73
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 797
+        width: 375
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.5, y: 90.5}
+        - {x: -93.5, y: -89.5}
+        - {x: 94.5, y: -89.5}
+        - {x: 94.5, y: 90.5}
+    - name: aorta4096_74
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 803
+        width: 375
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -94, y: 90.5}
+        - {x: -94, y: -89.5}
+        - {x: 94, y: -89.5}
+        - {x: 94, y: 90.5}
+    - name: aorta4096_75
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 797
+        width: 375
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -94, y: 90.5}
+        - {x: -94, y: -89.5}
+        - {x: 94, y: -89.5}
+        - {x: 94, y: 90.5}
+    - name: aorta4096_76
+      rect:
+        serializedVersion: 2
+        x: 2471
+        y: 797
+        width: 375
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.5, y: 90.5}
+        - {x: -93.5, y: -89.5}
+        - {x: 94.5, y: -89.5}
+        - {x: 94.5, y: 90.5}
+    - name: aorta4096_77
+      rect:
+        serializedVersion: 2
+        x: 2061
+        y: 785
+        width: 375
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.5, y: 90.5}
+        - {x: -93.5, y: -89.5}
+        - {x: 94.5, y: -89.5}
+        - {x: 94.5, y: 90.5}
+    - name: aorta4096_78
+      rect:
+        serializedVersion: 2
+        x: 2899
+        y: 785
+        width: 375
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.5, y: 90.5}
+        - {x: -93.5, y: -89.5}
+        - {x: 94.5, y: -89.5}
+        - {x: 94.5, y: 90.5}
+    - name: aorta4096_79
+      rect:
+        serializedVersion: 2
+        x: 3303
+        y: 779
+        width: 375
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.5, y: 90.5}
+        - {x: -93.5, y: -89.5}
+        - {x: 94.5, y: -89.5}
+        - {x: 94.5, y: 90.5}
+    - name: aorta4096_80
+      rect:
+        serializedVersion: 2
+        x: 3713
+        y: 797
+        width: 375
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.5, y: 90.5}
+        - {x: -93.5, y: -89.5}
+        - {x: 94.5, y: -89.5}
+        - {x: 94.5, y: 90.5}
+    - name: aorta4096_81
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 387
+        width: 375
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.5, y: 90.5}
+        - {x: -93.5, y: -89.5}
+        - {x: 94.5, y: -89.5}
+        - {x: 94.5, y: 90.5}
+    - name: aorta4096_82
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 393
+        width: 375
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.5, y: 90.5}
+        - {x: -93.5, y: -89.5}
+        - {x: 94.5, y: -89.5}
+        - {x: 94.5, y: 90.5}
+    - name: aorta4096_83
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 399
+        width: 375
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.5, y: 90.5}
+        - {x: -93.5, y: -89.5}
+        - {x: 94.5, y: -89.5}
+        - {x: 94.5, y: 90.5}
+    - name: aorta4096_84
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 381
+        width: 375
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.5, y: 90.5}
+        - {x: -93.5, y: -89.5}
+        - {x: 94.5, y: -89.5}
+        - {x: 94.5, y: 90.5}
+    - name: aorta4096_85
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 375
+        width: 375
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.5, y: 90.5}
+        - {x: -93.5, y: -89.5}
+        - {x: 94.5, y: -89.5}
+        - {x: 94.5, y: 90.5}
+    - name: aorta4096_86
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 393
+        width: 375
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.5, y: 90.5}
+        - {x: -93.5, y: -89.5}
+        - {x: 94.5, y: -89.5}
+        - {x: 94.5, y: 90.5}
+    - name: aorta4096_87
+      rect:
+        serializedVersion: 2
+        x: 2489
+        y: 370
+        width: 375
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.5, y: 90}
+        - {x: -93.5, y: -90}
+        - {x: 94.5, y: -90}
+        - {x: 94.5, y: 90}
+    - name: aorta4096_88
+      rect:
+        serializedVersion: 2
+        x: 2893
+        y: 376
+        width: 375
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.5, y: 90}
+        - {x: -93.5, y: -90}
+        - {x: 94.5, y: -90}
+        - {x: 94.5, y: 90}
+    - name: aorta4096_89
+      rect:
+        serializedVersion: 2
+        x: 3280
+        y: 388
+        width: 375
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -94, y: 90}
+        - {x: -94, y: -90}
+        - {x: 94, y: -90}
+        - {x: 94, y: 90}
+    - name: aorta4096_90
+      rect:
+        serializedVersion: 2
+        x: 3684
+        y: 375
+        width: 404
+        height: 366
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -101, y: 92.5}
+        - {x: -101, y: -91.5}
+        - {x: 101, y: -91.5}
+        - {x: 101, y: 92.5}
+    - name: aorta4096_91
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 375
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.5, y: 90}
+        - {x: -93.5, y: -90}
+        - {x: 94.5, y: -90}
+        - {x: 94.5, y: 90}
+    - name: aorta4096_92
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 0
+        width: 375
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.5, y: 90}
+        - {x: -93.5, y: -90}
+        - {x: 94.5, y: -90}
+        - {x: 94.5, y: 90}
+    - name: aorta4096_93
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 0
+        width: 375
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.5, y: 90}
+        - {x: -93.5, y: -90}
+        - {x: 94.5, y: -90}
+        - {x: 94.5, y: 90}
+    - name: aorta4096_94
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 0
+        width: 389
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -97, y: 90}
+        - {x: -97, y: -90}
+        - {x: 98, y: -90}
+        - {x: 98, y: 90}
+    - name: aorta4096_95
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 0
+        width: 408
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -102, y: 90}
+        - {x: -102, y: -90}
+        - {x: 102, y: -90}
+        - {x: 102, y: 90}
+    - name: aorta4096_96
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 11
+        width: 419
+        height: 348
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -104.5, y: 88}
+        - {x: -104.5, y: -87}
+        - {x: 105.5, y: -87}
+        - {x: 105.5, y: 88}
+    - name: aorta4096_97
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 0
+        width: 375
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -94, y: 90}
+        - {x: -94, y: -90}
+        - {x: 94, y: -90}
+        - {x: 94, y: 90}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
